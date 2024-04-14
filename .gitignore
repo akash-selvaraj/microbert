@@ -1,0 +1,36 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/microbert_frontend/node_modules
+/microbert_frontend/.pnp
+/microbert_frontend/.pnp.js
+/microbert_frontend/.yarn/install-state.gz
+
+# testing
+/microbert_frontend/coverage
+
+# next.js
+/microbert_frontend/.next/
+/microbert_frontend/out/
+
+# production
+/microbert_frontend/build
+
+# misc
+.DS_Store
+/microbert_frontend/.pem
+
+# debug
+/microbert_frontend/npm-debug.log*
+/microbert_frontend/yarn-debug.log*
+/microbert_frontend/yarn-error.log*
+
+# local env files
+/microbert_frontend/.env*.local
+
+# vercel
+/microbert_frontend/.vercel
+
+# typescript
+/microbert_frontend/.tsbuildinfo
+/microbert_frontend/next-env.d.ts
