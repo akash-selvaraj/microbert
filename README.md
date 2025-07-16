@@ -1,7 +1,3 @@
-Here is a professional, presentation-style writeup for the **Chat Assistant Web App** based on your latest architecture diagram — including a feature overview, tech stack, architecture explanation, and full run instructions.
-
----
-
 ### 🧠 MicroBert – Conversational Assistant Web App
 
 **MicroBert** is a web-based AI assistant that provides real-time, interactive responses to user queries. It is built with a modern **Next.js frontend** and a scalable **FastAPI backend**, which communicates with an **external ML inference service** to generate responses.
@@ -176,12 +172,3 @@ npm run dev
 
 This project is open-source under the **MIT License**.
 Contributions are welcome via pull requests!
-
----
-
-Let me know if you’d like:
-
-* Dockerized setup (`Dockerfile` + `docker-compose.yml`)
-* Environment variable support for dynamic inference URLs
-* Frontend component snippets (e.g., mascot, chat bubble)
-* Hosting instructions (Vercel for frontend, Render/Fly.io for backend)
