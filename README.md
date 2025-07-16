@@ -9,9 +9,8 @@ Here is a professional, presentation-style writeup for the **Chat Assistant Web 
 > Type a message → Send → Get a smart, contextual reply instantly!
 
 ---
-<img width="720" height="1527" alt="image" src="https://github.com/user-attachments/assets/d8ef0b47-9bc0-4f38-9111-0a1b10de35c4" />
+<img width="1920" height="1080" alt="Untitled design(1)" src="https://github.com/user-attachments/assets/780dbee7-a3f3-4381-9d43-601469e1bd39" />
 
-<img width="720" height="1527" alt="image" src="https://github.com/user-attachments/assets/aae97112-0932-442e-af04-3daf7c2cd8e5" />
 
 ## 💡 Key Features
 
